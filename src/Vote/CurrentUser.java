@@ -1,2 +1,4 @@
-package Vote;public class CurrentUser {
+package Vote;
+
+public class CurrentUser {
 }
